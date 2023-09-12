@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExceptionHandling
+public class ExceptionHandling// traied to edit the file 
 {
     public static  void main(String args[])
     {
